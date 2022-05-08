@@ -14,4 +14,3 @@ while True:
 	Wx = WideProportion_WidthCateto * MonitorSize
 	
 	print("Ultrawide: %.1f x %.1f  Área: %.2f\n	 Wide: %.1f x %.1f  Área: %.2f\n" % (Ux,Uy,(Ux*Uy),Wx,Wy,(Wx*Wy)))
-	
